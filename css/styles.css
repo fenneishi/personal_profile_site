@@ -1,1 +1,11 @@
-body
+body {
+    background-color: lightblue;
+}
+/*change hr to:
+1. no height
+2. only top border(gray,point styl)
+*/
+hr {
+    border-style: None;
+
+}
