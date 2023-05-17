@@ -1,11 +1,14 @@
 body {
-    background-color: lightblue;
+    background-color: #EAF6F6;
 }
 /*change hr to:
 1. no height
 2. only top border(gray,point styl)
 */
 hr {
-    border-style: None;
-
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    border-color: gray;
+    width: 10%;
 }
